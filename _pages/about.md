@@ -20,4 +20,6 @@ Bachelor of Computing - the Uni. of Sydney, 2019.02 - 2022.09
 
 Research Topics
 ======
-Dynamics Distillation for Scalable Models, Human Skeleton Motion Sequences Action Recognition/Classification/Prediction
+Dynamics Distillation for Scalable Models
+
+Human Skeleton Motion Sequences Action Recognition/Classification/Prediction
