@@ -14,9 +14,11 @@ Greetings! This is my academic website recording the academic and research exper
 
 Education
 ======
-* Master of Machine Learning & Computer Vision - Australian National University 2023.02 - 2024.12
+* Master of Machine Learning & Computer Vision
+  - Australian National University 2023.02 - 2024.12
 
-* Bachelor of Computing(Computational Data Science) - the University of Sydney, 2019.02 - 2022.09
+* Bachelor of Computing(Computational Data Science)
+  - the University of Sydney, 2019.02 - 2022.09
 
 Research Topics
 ======
