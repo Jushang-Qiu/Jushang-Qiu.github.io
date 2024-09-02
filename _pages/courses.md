@@ -1,18 +1,23 @@
 ---
 layout: archive
-title: "courses"
+title: "Courses"
 permalink: /courses/
 author_profile: true
-
+redirect_from: 
+  - /courses/
+  - /courses.html
 ---
 
 {% include base_path %}
 
 Australian National University
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+| Courses          | Assignments & Projects|
+| --------         | ------  |
+| Computer Vision  |[CLab1](./files/CLAB1-6528.pdf)     |
+| [Jane Doe](#)    | 2019    |
+| [Doe Doe](#)     | 2022    |
 
 Work experience
 ======
