@@ -10,14 +10,14 @@ The objective is to perform Python-based image processing operations**, image an
 
 image denoising via a Gaussian Filter,
 
-![image info](images/gaussianfilter.png)
+![image info](https://github.com/Jushang-Qiu/Jushang-Qiu.github.io/blob/adbe0234b92bd64b41e05c0653ce21937d6d0854/images/gaussianfilter.png)
 
 implementing own 3x3 Sobel filter to perform edge detection,
 
-![image info](images/sobel.png)
+![image info]([images/sobel.png](https://github.com/Jushang-Qiu/Jushang-Qiu.github.io/blob/adbe0234b92bd64b41e05c0653ce21937d6d0854/images/sobel.png))
 
 performing forward/backward mapping and inverse warping method i.e. bilinear interpolation** to rotate images.
 
-![image info](images/rotation.png)
+![image info](https://github.com/Jushang-Qiu/Jushang-Qiu.github.io/blob/adbe0234b92bd64b41e05c0653ce21937d6d0854/images/rotation.png)
 
 ---
