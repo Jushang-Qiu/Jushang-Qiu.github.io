@@ -18,7 +18,7 @@ implementing own 3x3 Sobel filter to perform edge detection,
 
 ![image info](https://github.com/Jushang-Qiu/Jushang-Qiu.github.io/blob/adbe0234b92bd64b41e05c0653ce21937d6d0854/images/sobel.png)
 
-performing forward/backward mapping and inverse warping method i.e. bilinear interpolation** to rotate images.
+performing forward/backward mapping and inverse warping method i.e. bilinear interpolation to rotate images.
 
 ![image info](https://github.com/Jushang-Qiu/Jushang-Qiu.github.io/blob/adbe0234b92bd64b41e05c0653ce21937d6d0854/images/rotation.png)
 
