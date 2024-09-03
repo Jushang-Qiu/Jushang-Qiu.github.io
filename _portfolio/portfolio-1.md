@@ -1,8 +1,8 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/histogram.png'>"
 collection: portfolio
----
+
 Computer Lab 1
 
 The objective is to perform Python-based image processing operations, image analysis and image filtering.
