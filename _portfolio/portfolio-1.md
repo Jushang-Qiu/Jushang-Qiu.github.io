@@ -1,5 +1,5 @@
 ---
 title: "Computer Vision"
-collection: portfolio
+# collection: portfolio
 ---
-sadfqegqeg
+
