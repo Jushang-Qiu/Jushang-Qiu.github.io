@@ -1,7 +1,3 @@
----
-title: "Computer Vision"
----
-
 Computer Lab 1
 
 The objective is to perform Python-based image processing operations, image analysis and image filtering.
